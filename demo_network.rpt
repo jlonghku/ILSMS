@@ -1,0 +1,1395 @@
+
+  EPA STORM WATER MANAGEMENT MODEL - VERSION 5.2 (Build 5.2.4)
+  PYSWMM TOOLKIT API - VERSION v1.0 (2026-02-26)
+  ------------------------------------------------------------
+
+  WARNING 02: maximum depth increased for Node POINT239
+  WARNING 02: maximum depth increased for Node POINT240
+  WARNING 02: maximum depth increased for Node POINT241
+  WARNING 02: maximum depth increased for Node POINT242
+  WARNING 02: maximum depth increased for Node POINT243
+  WARNING 02: maximum depth increased for Node POINT246
+  WARNING 02: maximum depth increased for Node POINT247
+  WARNING 02: maximum depth increased for Node POINT248
+  WARNING 02: maximum depth increased for Node POINT249
+  WARNING 02: maximum depth increased for Node POINT251
+  WARNING 02: maximum depth increased for Node POINT252
+  WARNING 02: maximum depth increased for Node POINT253
+  WARNING 02: maximum depth increased for Node POINT254
+  WARNING 02: maximum depth increased for Node POINT255
+  WARNING 02: maximum depth increased for Node POINT256
+  WARNING 02: maximum depth increased for Node POINT258
+  WARNING 02: maximum depth increased for Node POINT259
+  WARNING 02: maximum depth increased for Node POINT260
+  WARNING 02: maximum depth increased for Node POINT262
+  WARNING 02: maximum depth increased for Node POINT263
+  WARNING 02: maximum depth increased for Node POINT264
+  WARNING 02: maximum depth increased for Node POINT265
+  WARNING 02: maximum depth increased for Node POINT267
+  WARNING 02: maximum depth increased for Node POINT268
+  WARNING 02: maximum depth increased for Node POINT270
+  WARNING 02: maximum depth increased for Node POINT271
+  WARNING 02: maximum depth increased for Node POINT272
+  WARNING 02: maximum depth increased for Node POINT273
+  WARNING 02: maximum depth increased for Node POINT275
+  WARNING 02: maximum depth increased for Node POINT276
+  WARNING 02: maximum depth increased for Node POINT277
+  WARNING 02: maximum depth increased for Node POINT278
+  WARNING 02: maximum depth increased for Node POINT279
+  WARNING 02: maximum depth increased for Node POINT280
+  WARNING 02: maximum depth increased for Node POINT281
+  WARNING 02: maximum depth increased for Node POINT282
+  WARNING 02: maximum depth increased for Node POINT283
+  WARNING 02: maximum depth increased for Node POINT284
+  WARNING 02: maximum depth increased for Node POINT285
+  WARNING 02: maximum depth increased for Node POINT286
+  WARNING 02: maximum depth increased for Node POINT287
+  WARNING 02: maximum depth increased for Node POINT288
+  WARNING 02: maximum depth increased for Node POINT289
+  WARNING 02: maximum depth increased for Node POINT290
+  WARNING 02: maximum depth increased for Node POINT291
+  WARNING 02: maximum depth increased for Node POINT293
+  WARNING 02: maximum depth increased for Node POINT294
+  WARNING 02: maximum depth increased for Node POINT296
+  WARNING 02: maximum depth increased for Node POINT299
+  WARNING 02: maximum depth increased for Node POINT300
+  WARNING 02: maximum depth increased for Node POINT302
+  WARNING 02: maximum depth increased for Node POINT303
+  WARNING 02: maximum depth increased for Node POINT304
+  WARNING 02: maximum depth increased for Node POINT305
+  WARNING 02: maximum depth increased for Node POINT306
+  WARNING 02: maximum depth increased for Node POINT307
+  WARNING 02: maximum depth increased for Node POINT309
+  WARNING 02: maximum depth increased for Node POINT311
+  WARNING 02: maximum depth increased for Node POINT312
+  WARNING 02: maximum depth increased for Node POINT313
+  WARNING 02: maximum depth increased for Node POINT315
+  WARNING 02: maximum depth increased for Node POINT316
+  WARNING 02: maximum depth increased for Node POINT317
+  WARNING 02: maximum depth increased for Node POINT319
+  WARNING 02: maximum depth increased for Node POINT320
+  WARNING 02: maximum depth increased for Node POINT321
+  WARNING 02: maximum depth increased for Node POINT322
+  WARNING 02: maximum depth increased for Node POINT323
+  WARNING 02: maximum depth increased for Node POINT324
+  WARNING 02: maximum depth increased for Node POINT325
+  WARNING 02: maximum depth increased for Node POINT326
+  WARNING 02: maximum depth increased for Node POINT327
+  WARNING 02: maximum depth increased for Node POINT328
+  WARNING 02: maximum depth increased for Node POINT329
+  WARNING 02: maximum depth increased for Node POINT330
+  WARNING 02: maximum depth increased for Node POINT331
+  WARNING 02: maximum depth increased for Node POINT332
+  WARNING 02: maximum depth increased for Node POINT333
+  WARNING 02: maximum depth increased for Node POINT334
+  WARNING 02: maximum depth increased for Node POINT336
+  WARNING 02: maximum depth increased for Node POINT337
+  WARNING 02: maximum depth increased for Node POINT343
+  WARNING 02: maximum depth increased for Node POINT344
+  WARNING 02: maximum depth increased for Node POINT345
+  WARNING 02: maximum depth increased for Node POINT346
+  WARNING 02: maximum depth increased for Node POINT347
+  WARNING 02: maximum depth increased for Node POINT349
+  WARNING 02: maximum depth increased for Node POINT351
+  WARNING 02: maximum depth increased for Node POINT353
+  WARNING 02: maximum depth increased for Node POINT354
+  WARNING 02: maximum depth increased for Node POINT355
+  WARNING 02: maximum depth increased for Node POINT356
+  WARNING 02: maximum depth increased for Node POINT357
+  WARNING 02: maximum depth increased for Node POINT359
+  WARNING 02: maximum depth increased for Node POINT360
+  WARNING 02: maximum depth increased for Node POINT361
+  WARNING 02: maximum depth increased for Node POINT363
+  WARNING 02: maximum depth increased for Node POINT365
+  WARNING 02: maximum depth increased for Node POINT367
+  WARNING 02: maximum depth increased for Node POINT368
+  WARNING 02: maximum depth increased for Node POINT369
+  WARNING 02: maximum depth increased for Node POINT370
+  WARNING 02: maximum depth increased for Node POINT371
+  WARNING 02: maximum depth increased for Node POINT374
+  WARNING 02: maximum depth increased for Node POINT375
+  WARNING 02: maximum depth increased for Node POINT376
+  WARNING 02: maximum depth increased for Node POINT377
+  WARNING 02: maximum depth increased for Node POINT378
+  WARNING 02: maximum depth increased for Node POINT379
+  WARNING 02: maximum depth increased for Node POINT380
+  WARNING 02: maximum depth increased for Node POINT381
+  WARNING 02: maximum depth increased for Node POINT382
+  WARNING 02: maximum depth increased for Node POINT383
+  WARNING 02: maximum depth increased for Node POINT385
+  WARNING 02: maximum depth increased for Node POINT387
+  WARNING 02: maximum depth increased for Node POINT388
+  WARNING 02: maximum depth increased for Node POINT505
+  WARNING 02: maximum depth increased for Node OUT014
+  WARNING 02: maximum depth increased for Node OUT001
+  
+  ****************
+  Analysis Options
+  ****************
+  Flow Units ............... CMS
+  Process Models:
+    Rainfall/Runoff ........ YES
+    RDII ................... NO
+    Snowmelt ............... NO
+    Groundwater ............ NO
+    Flow Routing ........... YES
+    Ponding Allowed ........ NO
+    Water Quality .......... YES
+  Infiltration Method ...... HORTON
+  Flow Routing Method ...... DYNWAVE
+  Surcharge Method ......... EXTRAN
+  Starting Date ............ 01/01/2026 00:00:00
+  Ending Date .............. 01/01/2026 03:00:00
+  Antecedent Dry Days ...... 0.0
+  Report Time Step ......... 00:05:00
+  Wet Time Step ............ 00:05:00
+  Dry Time Step ............ 01:00:00
+  Routing Time Step ........ 30.00 sec
+  Variable Time Step ....... YES
+  Maximum Trials ........... 8
+  Number of Threads ........ 1
+  Head Tolerance ........... 0.001524 m
+  
+  
+  **************************        Volume         Depth
+  Runoff Quantity Continuity     hectare-m            mm
+  **************************     ---------       -------
+  Total Precipitation ......       169.346        46.667
+  Evaporation Loss .........         0.000         0.000
+  Infiltration Loss ........        44.541        12.274
+  Surface Runoff ...........       116.236        32.031
+  Final Storage ............         9.069         2.499
+  Continuity Error (%) .....        -0.295
+  
+  
+  **************************        TRACER          NH4N
+  Runoff Quality Continuity             kg            kg
+  **************************    ----------    ----------
+  Initial Buildup ..........         0.000         0.000
+  Surface Buildup ..........     54432.494     18144.165
+  Wet Deposition ...........         0.000         0.000
+  Sweeping Removal .........         0.000         0.000
+  Infiltration Loss ........         0.000         0.000
+  BMP Removal ..............         0.000         0.000
+  Surface Runoff ...........     40681.004      4649.258
+  Remaining Buildup ........     13751.490     13494.907
+  Continuity Error (%) .....         0.000         0.000
+  
+  
+  **************************        Volume        Volume
+  Flow Routing Continuity        hectare-m      10^6 ltr
+  **************************     ---------     ---------
+  Dry Weather Inflow .......         0.000         0.000
+  Wet Weather Inflow .......       116.000      1160.013
+  Groundwater Inflow .......         0.000         0.000
+  RDII Inflow ..............         0.000         0.000
+  External Inflow ..........         0.000         0.000
+  External Outflow .........        96.844       968.453
+  Flooding Loss ............         5.361        53.606
+  Evaporation Loss .........         0.000         0.000
+  Exfiltration Loss ........         0.000         0.000
+  Initial Stored Volume ....         0.000         0.001
+  Final Stored Volume ......        14.223       142.235
+  Continuity Error (%) .....        -0.369
+  
+  
+  **************************        TRACER          NH4N
+  Quality Routing Continuity            kg            kg
+  **************************    ----------    ----------
+  Dry Weather Inflow .......         0.000         0.000
+  Wet Weather Inflow .......     40598.528      4639.832
+  Groundwater Inflow .......         0.000         0.000
+  RDII Inflow ..............         0.000         0.000
+  External Inflow ..........         0.000         0.000
+  External Outflow .........     33891.388      3873.301
+  Flooding Loss ............      1876.097       214.411
+  Exfiltration Loss ........         0.000         0.000
+  Mass Reacted .............         0.000         0.000
+  Initial Stored Mass ......         0.000         0.000
+  Final Stored Mass ........      4976.750       568.771
+  Continuity Error (%) .....        -0.359        -0.359
+  
+  
+  *************************
+  Highest Continuity Errors
+  *************************
+  Node POINT323 (40.76%)
+  Node POINT253 (32.56%)
+  Node POINT254 (31.49%)
+  Node POINT333 (29.70%)
+  Node POINT332 (24.31%)
+  
+  
+  ***************************
+  Time-Step Critical Elements
+  ***************************
+  Link OUT_LINK_OUT001 (72.27%)
+  Link OUT_LINK_OUT014 (26.97%)
+  
+  
+  ********************************
+  Highest Flow Instability Indexes
+  ********************************
+  Link pip186 (4)
+  Link pip185 (4)
+  Link pip249 (3)
+  Link pip248 (2)
+  Link pip243 (2)
+  
+  
+  *********************************
+  Most Frequent Nonconverging Nodes
+  *********************************
+  Node OUT027 (1.31%)
+  Node OUT026 (1.31%)
+  Node OUT025 (1.31%)
+  Node OUT024 (1.31%)
+  Node OUT023 (1.31%)
+  
+  
+  *************************
+  Routing Time Step Summary
+  *************************
+  Minimum Time Step           :     0.04 sec
+  Average Time Step           :     3.01 sec
+  Maximum Time Step           :    30.00 sec
+  % of Time in Steady State   :     0.00
+  Average Iterations per Step :     2.11
+  % of Steps Not Converging   :     1.31
+  Time Step Frequencies       :
+     30.000 - 13.228 sec      :     1.51 %
+     13.228 -  5.833 sec      :     3.10 %
+      5.833 -  2.572 sec      :    36.30 %
+      2.572 -  1.134 sec      :    57.67 %
+      1.134 -  0.500 sec      :     1.42 %
+  
+  
+  ***************************
+  Subcatchment Runoff Summary
+  ***************************
+  
+  ------------------------------------------------------------------------------------------------------------------------------
+                            Total      Total      Total      Total     Imperv       Perv      Total       Total     Peak  Runoff
+                           Precip      Runon       Evap      Infil     Runoff     Runoff     Runoff      Runoff   Runoff   Coeff
+  Subcatchment                 mm         mm         mm         mm         mm         mm         mm    10^6 ltr      CMS
+  ------------------------------------------------------------------------------------------------------------------------------
+  Catchment_44              46.67       0.00       0.00      12.27      24.70       7.15      31.86       11.75     4.65   0.683
+  Catchment_45              46.67       0.00       0.00      12.27      24.59       6.72      31.31       16.05     6.13   0.671
+  Catchment_46              46.67       0.00       0.00      12.27      24.82       7.68      32.50        7.88     3.23   0.696
+  Catchment_47              46.67       0.00       0.00      12.27      24.74       7.30      32.04       10.51     4.20   0.687
+  Catchment_48              46.67       0.00       0.00      12.27      24.83       7.76      32.59        7.43     3.06   0.698
+  Catchment_49              46.67       0.00       0.00      12.27      24.72       7.23      31.95       11.10     4.41   0.685
+  Catchment_50              46.67       0.00       0.00      12.27      24.93       8.35      33.28        4.58     1.96   0.713
+  Catchment_51              46.67       0.00       0.00      12.27      24.79       7.57      32.36        8.61     3.50   0.693
+  Catchment_52              46.67       0.00       0.00      12.27      24.72       7.23      31.95       11.12     4.42   0.685
+  Catchment_53              46.67       0.00       0.00      12.27      24.76       7.39      32.15        9.85     3.96   0.689
+  Catchment_54              46.67       0.00       0.00      12.27      24.71       7.19      31.90       11.45     4.54   0.684
+  Catchment_55              46.67       0.00       0.00      12.27      24.71       7.18      31.89       11.53     4.57   0.683
+  Catchment_56              46.67       0.00       0.00      12.27      24.57       6.65      31.22       16.78     6.38   0.669
+  Catchment_57              46.67       0.00       0.00      12.27      24.61       6.78      31.39       15.31     5.88   0.673
+  Catchment_58              46.67       0.00       0.00      12.27      24.58       6.69      31.28       16.32     6.22   0.670
+  Catchment_59              46.67       0.00       0.00      12.27      24.87       7.95      32.81        6.38     2.66   0.703
+  Catchment_60              46.67       0.00       0.00      12.27      24.91       8.19      33.10        5.22     2.21   0.709
+  Catchment_61              46.67       0.00       0.00      12.27      24.55       6.58      31.13       17.62     6.66   0.667
+  Catchment_62              46.67       0.00       0.00      12.27      24.95       8.48      33.43        4.10     1.76   0.716
+  Catchment_63              46.67       0.00       0.00      12.27      24.58       6.70      31.29       16.23     6.19   0.670
+  Catchment_64              46.67       0.00       0.00      12.27      24.93       8.35      33.28        4.59     1.96   0.713
+  Catchment_65              46.67       0.00       0.00      12.27      24.73       7.27      32.00       10.79     4.30   0.686
+  Catchment_66              46.67       0.00       0.00      12.27      24.75       7.35      32.09       10.20     4.09   0.688
+  Catchment_67              46.67       0.00       0.00      12.27      24.56       6.60      31.16       17.38     6.58   0.668
+  Catchment_70              46.67       0.00       0.00      12.27      24.73       7.28      32.01       10.70     4.27   0.686
+  Catchment_71              46.67       0.00       0.00      12.27      24.70       7.12      31.82       12.01     4.74   0.682
+  Catchment_72              46.67       0.00       0.00      12.27      24.66       6.97      31.63       13.39     5.22   0.678
+  Catchment_73              46.67       0.00       0.00      12.27      24.68       7.06      31.74       12.56     4.93   0.680
+  Catchment_74              46.67       0.00       0.00      12.27      24.67       7.04      31.72       12.76     5.00   0.680
+  Catchment_75              46.67       0.00       0.00      12.27      24.79       7.56      32.36        8.65     3.52   0.693
+  Catchment_76              46.67       0.00       0.00      12.27      24.72       7.24      31.97       11.00     4.38   0.685
+  Catchment_77              46.67       0.00       0.00      12.27      24.65       6.94      31.59       13.68     5.32   0.677
+  Catchment_78              46.67       0.00       0.00      12.27      24.61       6.79      31.40       15.22     5.85   0.673
+  Catchment_79              46.67       0.00       0.00      12.27      24.55       6.57      31.12       17.75     6.70   0.667
+  Catchment_80              46.67       0.00       0.00      12.27      24.86       7.94      32.80        6.42     2.68   0.703
+  Catchment_81              46.67       0.00       0.00      12.27      24.64       6.91      31.55       14.04     5.45   0.676
+  Catchment_82              46.67       0.00       0.00      12.27      24.95       8.51      33.46        4.00     1.72   0.717
+  Catchment_83              46.67       0.00       0.00      12.27      24.81       7.65      32.46        8.08     3.31   0.696
+  Catchment_84              46.67       0.00       0.00      12.27      24.52       6.47      30.99       19.05     7.13   0.664
+  Catchment_85              46.67       0.00       0.00      12.27      24.75       7.38      32.14        9.93     3.99   0.689
+  Catchment_86              46.67       0.00       0.00      12.27      24.46       6.30      30.76       21.40     7.89   0.659
+  Catchment_87              46.67       0.00       0.00      12.27      24.71       7.17      31.87       11.65     4.61   0.683
+  Catchment_88              46.67       0.00       0.00      12.27      24.76       7.40      32.15        9.82     3.95   0.689
+  Catchment_89              46.67       0.00       0.00      12.27      24.86       7.92      32.78        6.51     2.71   0.702
+  Catchment_90              46.67       0.00       0.00      12.27      24.81       7.65      32.46        8.09     3.31   0.696
+  Catchment_91              46.67       0.00       0.00      12.27      24.78       7.50      32.28        9.07     3.67   0.692
+  Catchment_92              46.67       0.00       0.00      12.27      24.87       7.95      32.82        6.35     2.65   0.703
+  Catchment_93              46.67       0.00       0.00      12.27      24.84       7.82      32.67        7.05     2.92   0.700
+  Catchment_94              46.67       0.00       0.00      12.27      24.78       7.49      32.27        9.15     3.71   0.691
+  Catchment_95              46.67       0.00       0.00      12.27      24.80       7.60      32.40        8.42     3.43   0.694
+  Catchment_96              46.67       0.00       0.00      12.27      24.84       7.79      32.63        7.22     2.98   0.699
+  Catchment_97              46.67       0.00       0.00      12.27      24.88       8.03      32.91        5.98     2.51   0.705
+  Catchment_98              46.67       0.00       0.00      12.27      24.91       8.21      33.12        5.14     2.18   0.710
+  Catchment_99              46.67       0.00       0.00      12.27      24.46       6.28      30.73       21.71     7.99   0.659
+  Catchment_100             46.67       0.00       0.00      12.27      24.53       6.52      31.05       18.44     6.93   0.665
+  Catchment_101             46.67       0.00       0.00      12.27      24.80       7.62      32.43        8.26     3.37   0.695
+  Catchment_102             46.67       0.00       0.00      12.27      24.62       6.83      31.45       14.83     5.72   0.674
+  Catchment_103             46.67       0.00       0.00      12.27      24.91       8.21      33.12        5.14     2.18   0.710
+  Catchment_104             46.67       0.00       0.00      12.27      24.81       7.63      32.44        8.20     3.35   0.695
+  Catchment_105             46.67       0.00       0.00      12.27      24.81       7.63      32.44        8.19     3.35   0.695
+  Catchment_106             46.67       0.00       0.00      12.27      24.72       7.23      31.94       11.15     4.43   0.685
+  Catchment_107             46.67       0.00       0.00      12.27      24.85       7.84      32.69        6.95     2.88   0.700
+  Catchment_108             46.67       0.00       0.00      12.27      24.63       6.87      31.50       14.43     5.58   0.675
+  Catchment_109             46.67       0.00       0.00      12.27      24.80       7.58      32.38        8.54     3.48   0.694
+  Catchment_110             46.67       0.00       0.00      12.27      24.82       7.70      32.52        7.79     3.20   0.697
+  Catchment_111             46.67       0.00       0.00      12.27      24.80       7.60      32.40        8.40     3.43   0.694
+  Catchment_112             46.67       0.00       0.00      12.27      24.82       7.72      32.54        7.67     3.15   0.697
+  Catchment_113             46.67       0.00       0.00      12.27      24.79       7.55      32.34        8.73     3.55   0.693
+  Catchment_114             46.67       0.00       0.00      12.27      24.85       7.86      32.71        6.83     2.84   0.701
+  Catchment_115             46.67       0.00       0.00      12.27      24.66       6.99      31.65       13.23     5.17   0.678
+  Catchment_116             46.67       0.00       0.00      12.27      24.87       7.95      32.82        6.36     2.65   0.703
+  Catchment_117             46.67       0.00       0.00      12.27      24.92       8.26      33.18        4.91     2.09   0.711
+  Catchment_118             46.67       0.00       0.00      12.27      24.80       7.60      32.40        8.41     3.43   0.694
+  Catchment_119             46.67       0.00       0.00      12.27      24.87       7.97      32.84        6.27     2.62   0.704
+  Catchment_120             46.67       0.00       0.00      12.27      24.92       8.25      33.17        4.96     2.11   0.711
+  Catchment_121             46.67       0.00       0.00      12.27      24.91       8.24      33.15        5.03     2.14   0.710
+  Catchment_122             46.67       0.00       0.00      12.27      24.98       8.72      33.70        3.32     1.45   0.722
+  Catchment_123             46.67       0.00       0.00      12.27      24.91       8.23      33.15        5.04     2.14   0.710
+  Catchment_124             46.67       0.00       0.00      12.27      24.87       7.99      32.86        6.16     2.58   0.704
+  Catchment_125             46.67       0.00       0.00      12.27      24.91       8.22      33.13        5.09     2.16   0.710
+  Catchment_126             46.67       0.00       0.00      12.27      24.85       7.88      32.73        6.76     2.81   0.701
+  Catchment_127             46.67       0.00       0.00      12.27      24.90       8.14      33.04        5.43     2.29   0.708
+  Catchment_128             46.67       0.00       0.00      12.27      24.88       8.01      32.89        6.04     2.53   0.705
+  Catchment_129             46.67       0.00       0.00      12.27      24.86       7.93      32.79        6.47     2.70   0.703
+  Catchment_130             46.67       0.00       0.00      12.27      24.88       8.03      32.91        5.96     2.50   0.705
+  Catchment_131             46.67       0.00       0.00      12.27      24.87       7.96      32.82        6.33     2.64   0.703
+  Catchment_132             46.67       0.00       0.00      12.27      24.93       8.38      33.31        4.46     1.91   0.714
+  Catchment_133             46.67       0.00       0.00      12.27      24.74       7.34      32.08       10.27     4.11   0.687
+  Catchment_134             46.67       0.00       0.00      12.27      24.86       7.93      32.79        6.46     2.69   0.703
+  Catchment_135             46.67       0.00       0.00      12.27      24.72       7.24      31.96       11.07     4.40   0.685
+  Catchment_136             46.67       0.00       0.00      12.27      24.70       7.13      31.82       11.99     4.73   0.682
+  Catchment_137             46.67       0.00       0.00      12.27      24.95       8.52      33.48        3.95     1.70   0.717
+  Catchment_138             46.67       0.00       0.00      12.27      24.87       7.95      32.81        6.38     2.66   0.703
+  Catchment_139             46.67       0.00       0.00      12.27      24.88       8.05      32.94        5.85     2.46   0.706
+  Catchment_140             46.67       0.00       0.00      12.27      24.78       7.52      32.31        8.91     3.61   0.692
+  Catchment_141             46.67       0.00       0.00      12.27      24.87       7.95      32.82        6.35     2.65   0.703
+  Catchment_142             46.67       0.00       0.00      12.27      24.81       7.63      32.44        8.18     3.35   0.695
+  Catchment_143             46.67       0.00       0.00      12.27      24.88       8.05      32.94        5.85     2.46   0.706
+  Catchment_144             46.67       0.00       0.00      12.27      24.89       8.09      32.98        5.66     2.38   0.707
+  Catchment_145             46.67       0.00       0.00      12.27      24.77       7.43      32.20        9.54     3.85   0.690
+  Catchment_146             46.67       0.00       0.00      12.27      24.47       6.31      30.77       21.27     7.85   0.659
+  Catchment_147             46.67       0.00       0.00      12.27      24.87       7.95      32.82        6.36     2.65   0.703
+  Catchment_148             46.67       0.00       0.00      12.27      24.89       8.06      32.95        5.81     2.44   0.706
+  Catchment_149             46.67       0.00       0.00      12.27      24.89       8.10      32.99        5.64     2.37   0.707
+  Catchment_150             46.67       0.00       0.00      12.27      24.75       7.35      32.10       10.16     4.07   0.688
+  Catchment_151             46.67       0.00       0.00      12.27      24.65       6.94      31.59       13.73     5.34   0.677
+  Catchment_152             46.67       0.00       0.00      12.27      24.78       7.50      32.28        9.10     3.69   0.692
+  Catchment_153             46.67       0.00       0.00      12.27      24.62       6.83      31.45       14.87     5.73   0.674
+  Catchment_154             46.67       0.00       0.00      12.27      24.84       7.83      32.67        7.02     2.91   0.700
+  Catchment_155             46.67       0.00       0.00      12.27      24.95       8.50      33.45        4.02     1.73   0.717
+  Catchment_156             46.67       0.00       0.00      12.27      24.98       8.75      33.73        3.24     1.41   0.723
+  Catchment_157             46.67       0.00       0.00      12.27      24.72       7.22      31.94       11.18     4.44   0.684
+  Catchment_158             46.67       0.00       0.00      12.27      24.75       7.36      32.11       10.08     4.05   0.688
+  Catchment_159             46.67       0.00       0.00      12.27      24.52       6.49      31.01       18.77     7.04   0.665
+  Catchment_160             46.67       0.00       0.00      12.27      24.85       7.87      32.72        6.80     2.82   0.701
+  Catchment_161             46.67       0.00       0.00      12.27      24.65       6.92      31.57       13.88     5.39   0.676
+  Catchment_162             46.67       0.00       0.00      12.27      24.81       7.65      32.46        8.07     3.30   0.696
+  Catchment_163             46.67       0.00       0.00      12.27      24.88       8.05      32.94        5.85     2.46   0.706
+  Catchment_164             46.67       0.00       0.00      12.27      24.99       8.76      33.75        3.19     1.39   0.723
+  Catchment_165             46.67       0.00       0.00      12.27      24.75       7.36      32.10       10.12     4.06   0.688
+  Catchment_166             46.67       0.00       0.00      12.27      24.88       8.05      32.93        5.87     2.47   0.706
+  Catchment_167             46.67       0.00       0.00      12.27      24.83       7.77      32.61        7.33     3.02   0.699
+  Catchment_168             46.67       0.00       0.00      12.27      24.95       8.47      33.42        4.11     1.77   0.716
+  Catchment_169             46.67       0.00       0.00      12.27      24.93       8.33      33.25        4.67     1.99   0.713
+  Catchment_170             46.67       0.00       0.00      12.27      24.93       8.32      33.24        4.70     2.00   0.712
+  Catchment_171             46.67       0.00       0.00      12.10      25.01       8.94      33.95        2.72     1.20   0.727
+  
+  
+  ****************************
+  Subcatchment Washoff Summary
+  ****************************
+  
+  ------------------------------------------------
+                              TRACER          NH4N
+  Subcatchment                    kg            kg
+  ------------------------------------------------
+  Catchment_44               411.355        47.012
+  Catchment_45               561.870        64.214
+  Catchment_46               275.860        31.527
+  Catchment_47               367.981        42.055
+  Catchment_48               260.012        29.716
+  Catchment_49               388.640        44.416
+  Catchment_50               160.298        18.320
+  Catchment_51               301.256        34.429
+  Catchment_52               389.188        44.479
+  Catchment_53               344.686        39.393
+  Catchment_54               400.874        45.814
+  Catchment_55               403.543        46.119
+  Catchment_56               587.330        67.123
+  Catchment_57               535.866        61.242
+  Catchment_58               571.195        65.279
+  Catchment_59               223.291        25.519
+  Catchment_60               182.531        20.861
+  Catchment_61               616.750        70.486
+  Catchment_62               143.350        16.383
+  Catchment_63               568.011        64.915
+  Catchment_64               160.610        18.355
+  Catchment_65               377.543        43.148
+  Catchment_66               356.840        40.782
+  Catchment_67               608.112        69.499
+  Catchment_70               374.620        42.814
+  Catchment_71               420.170        48.019
+  Catchment_72               468.752        53.572
+  Catchment_73               439.647        50.245
+  Catchment_74               446.515        51.030
+  Catchment_75               302.626        34.586
+  Catchment_76               385.058        44.007
+  Catchment_77               478.879        54.729
+  Catchment_78               532.558        60.864
+  Catchment_79               621.284        71.004
+  Catchment_80               224.578        25.666
+  Catchment_81               491.224        56.140
+  Catchment_82               139.949        15.994
+  Catchment_83               282.689        32.307
+  Catchment_84               666.886        76.216
+  Catchment_85               347.408        39.704
+  Catchment_86               749.020        85.602
+  Catchment_87               407.728        46.597
+  Catchment_88               343.562        39.264
+  Catchment_89               227.868        26.042
+  Catchment_90               283.008        32.344
+  Catchment_91               317.385        36.273
+  Catchment_92               222.067        25.379
+  Catchment_93               246.910        28.218
+  Catchment_94               320.323        36.608
+  Catchment_95               294.661        33.676
+  Catchment_96               252.735        28.884
+  Catchment_97               209.131        23.901
+  Catchment_98               179.803        20.549
+  Catchment_99               759.651        86.817
+  Catchment_100              645.533        73.775
+  Catchment_101              289.114        33.042
+  Catchment_102              518.997        59.314
+  Catchment_103              180.070        20.579
+  Catchment_104              286.995        32.799
+  Catchment_105              286.725        32.769
+  Catchment_106              390.288        44.604
+  Catchment_107              243.091        27.782
+  Catchment_108              505.204        57.738
+  Catchment_109              298.828        34.152
+  Catchment_110              272.738        31.170
+  Catchment_111              294.029        33.603
+  Catchment_112              268.273        30.660
+  Catchment_113              305.440        34.907
+  Catchment_114              239.140        27.330
+  Catchment_115              463.037        52.918
+  Catchment_116              222.527        25.432
+  Catchment_117              171.946        19.651
+  Catchment_118              294.447        33.651
+  Catchment_119              219.325        25.066
+  Catchment_120              173.586        19.838
+  Catchment_121              176.037        20.119
+  Catchment_122              116.267        13.288
+  Catchment_123              176.519        20.174
+  Catchment_124              215.571        24.637
+  Catchment_125              178.246        20.371
+  Catchment_126              236.594        27.039
+  Catchment_127              190.118        21.728
+  Catchment_128              211.400        24.160
+  Catchment_129              226.329        25.866
+  Catchment_130              208.597        23.840
+  Catchment_131              221.594        25.325
+  Catchment_132              155.964        17.824
+  Catchment_133              359.299        41.063
+  Catchment_134              226.250        25.857
+  Catchment_135              387.331        44.266
+  Catchment_136              419.525        47.946
+  Catchment_137              138.103        15.783
+  Catchment_138              223.213        25.510
+  Catchment_139              204.682        23.392
+  Catchment_140              311.661        35.618
+  Catchment_141              222.405        25.418
+  Catchment_142              286.384        32.730
+  Catchment_143              204.638        23.387
+  Catchment_144              198.131        22.644
+  Catchment_145              333.999        38.171
+  Catchment_146              744.321        85.065
+  Catchment_147              222.595        25.439
+  Catchment_148              203.338        23.239
+  Catchment_149              197.303        22.549
+  Catchment_150              355.589        40.639
+  Catchment_151              480.617        54.928
+  Catchment_152              318.478        36.398
+  Catchment_153              520.544        59.491
+  Catchment_154              245.553        28.063
+  Catchment_155              140.742        16.085
+  Catchment_156              113.346        12.954
+  Catchment_157              391.394        44.731
+  Catchment_158              352.920        40.334
+  Catchment_159              656.844        75.068
+  Catchment_160              237.936        27.193
+  Catchment_161              485.685        55.507
+  Catchment_162              282.399        32.274
+  Catchment_163              204.746        23.400
+  Catchment_164              111.559        12.750
+  Catchment_165              354.193        40.479
+  Catchment_166              205.599        23.497
+  Catchment_167              256.532        29.318
+  Catchment_168              143.944        16.451
+  Catchment_169              163.305        18.663
+  Catchment_170              164.496        18.800
+  Catchment_171               95.147        10.874
+  ------------------------------------------------
+  System                   40681.004      4649.258
+  
+  
+  ******************
+  Node Depth Summary
+  ******************
+  
+  ---------------------------------------------------------------------------------
+                                 Average  Maximum  Maximum  Time of Max    Reported
+                                   Depth    Depth      HGL   Occurrence   Max Depth
+  Node                 Type       Meters   Meters   Meters  days hr:min      Meters
+  ---------------------------------------------------------------------------------
+  POINT239             JUNCTION     0.34     0.87     4.33     0  00:54        0.87
+  POINT240             JUNCTION     0.45     1.20     6.97     0  00:53        1.16
+  POINT241             JUNCTION     2.91     4.02     7.05     0  00:55        3.99
+  POINT242             JUNCTION     1.33     2.42     7.08     0  00:55        2.41
+  POINT243             JUNCTION     2.62     3.72     7.04     0  00:57        3.69
+  POINT244             JUNCTION     1.93     2.00     5.14     0  00:38        2.00
+  POINT246             JUNCTION     0.41     0.81     4.76     0  00:56        0.81
+  POINT247             JUNCTION     1.29     2.04     5.30     0  00:56        2.04
+  POINT248             JUNCTION     1.26     2.06     5.39     0  00:56        2.06
+  POINT249             JUNCTION     0.51     1.24     5.49     0  00:54        1.24
+  POINT251             JUNCTION     0.38     0.65     6.32     0  01:16        0.64
+  POINT252             JUNCTION     3.14     3.81     6.43     0  01:18        3.79
+  POINT253             JUNCTION     3.36     4.03     6.42     0  01:14        4.03
+  POINT254             JUNCTION     3.08     3.75     6.43     0  01:16        3.70
+  POINT255             JUNCTION     3.40     4.12     6.46     0  01:14        4.05
+  POINT256             JUNCTION     0.31     0.62     8.40     0  00:51        0.61
+  POINT258             JUNCTION     0.38     0.80     2.78     0  00:53        0.79
+  POINT259             JUNCTION     0.48     1.00     3.40     0  00:51        0.99
+  POINT260             JUNCTION     0.29     0.66     4.22     0  00:50        0.65
+  POINT262             JUNCTION     0.58     1.09     3.81     0  00:58        1.09
+  POINT263             JUNCTION     1.35     2.23     4.54     0  00:57        2.21
+  POINT264             JUNCTION     0.58     1.18     4.87     0  00:53        1.18
+  POINT265             JUNCTION     0.29     0.62    14.11     0  00:51        0.62
+  POINT266             JUNCTION     0.27     0.59    28.85     0  00:50        0.59
+  POINT267             JUNCTION     1.38     2.33     4.60     0  00:59        2.33
+  POINT268             JUNCTION     0.94     1.48     3.86     0  01:00        1.48
+  POINT270             JUNCTION     1.12     2.11     4.70     0  01:02        2.10
+  POINT271             JUNCTION     1.32     2.31     4.71     0  01:02        2.30
+  POINT272             JUNCTION     1.13     2.16     4.79     0  01:02        2.14
+  POINT273             JUNCTION     0.81     1.86     4.86     0  01:01        1.82
+  POINT275             JUNCTION     0.65     1.19     7.73     0  01:13        1.16
+  POINT276             JUNCTION     3.17     4.38     8.14     0  01:12        4.02
+  POINT277             JUNCTION     3.80     5.02     8.15     0  01:13        4.88
+  POINT278             JUNCTION     4.98     6.21     7.97     0  01:17        6.06
+  POINT279             JUNCTION     2.63     3.54     7.89     0  01:08        3.48
+  POINT280             JUNCTION     0.53     1.07     7.93     0  00:51        1.06
+  POINT281             JUNCTION     0.23     0.48    22.77     0  00:50        0.48
+  POINT282             JUNCTION     0.31     0.66    12.58     0  00:51        0.65
+  POINT283             JUNCTION     0.26     0.56    17.31     0  00:50        0.55
+  POINT284             JUNCTION     1.18     2.39     7.94     0  00:57        2.36
+  POINT285             JUNCTION     0.85     1.78    10.60     0  00:54        1.78
+  POINT286             JUNCTION     0.54     1.11     8.55     0  00:53        1.11
+  POINT287             JUNCTION     0.34     0.72    13.87     0  00:51        0.72
+  POINT288             JUNCTION     0.33     0.71    19.35     0  00:50        0.71
+  POINT289             JUNCTION     0.23     0.50    28.60     0  00:50        0.50
+  POINT290             JUNCTION     0.39     0.79    30.84     0  00:51        0.79
+  POINT291             JUNCTION     0.35     0.74    33.30     0  00:50        0.74
+  POINT293             JUNCTION     0.48     0.98     3.29     0  00:52        0.97
+  POINT294             JUNCTION     0.41     0.86     4.31     0  00:51        0.85
+  POINT296             JUNCTION     0.74     1.58     6.28     0  00:51        1.57
+  POINT297             JUNCTION     0.29     0.66    12.26     0  00:50        0.66
+  POINT299             JUNCTION     0.60     1.33     3.40     0  00:51        1.32
+  POINT300             JUNCTION     0.35     0.76     4.75     0  00:50        0.76
+  POINT302             JUNCTION     1.55     2.39     4.62     0  00:58        2.35
+  POINT303             JUNCTION     0.29     0.61     6.92     0  00:50        0.60
+  POINT304             JUNCTION     2.20     3.09     4.65     0  00:55        3.05
+  POINT305             JUNCTION     0.45     0.90     4.07     0  00:54        0.90
+  POINT306             JUNCTION     2.10     2.73     4.19     0  00:51        2.69
+  POINT307             JUNCTION     0.29     0.58    14.07     0  00:50        0.58
+  POINT309             JUNCTION     0.69     1.49     5.09     0  00:51        1.47
+  POINT311             JUNCTION     0.64     1.33     5.24     0  00:53        1.32
+  POINT312             JUNCTION     0.46     0.95    10.20     0  00:51        0.95
+  POINT313             JUNCTION     0.27     0.57    10.81     0  00:51        0.57
+  POINT315             JUNCTION     4.77     5.91    10.11     0  01:07        5.90
+  POINT316             JUNCTION     0.24     0.50    19.36     0  00:51        0.49
+  POINT317             JUNCTION     0.38     0.80    20.88     0  00:50        0.80
+  POINT319             JUNCTION     0.87     1.32     4.90     0  01:13        1.29
+  POINT320             JUNCTION     0.44     0.74     7.11     0  01:16        0.72
+  POINT321             JUNCTION     2.99     3.53     7.17     0  01:19        3.53
+  POINT322             JUNCTION     3.53     4.27     7.20     0  01:14        4.27
+  POINT323             JUNCTION     3.49     4.20     7.17     0  01:12        4.18
+  POINT324             JUNCTION     1.60     2.22     7.25     0  01:12        2.10
+  POINT325             JUNCTION     0.18     0.39    12.23     0  00:50        0.39
+  POINT326             JUNCTION     1.40     2.06     5.22     0  00:55        2.05
+  POINT327             JUNCTION     1.44     2.09     5.23     0  00:59        2.08
+  POINT328             JUNCTION     0.33     0.71     8.07     0  00:50        0.65
+  POINT329             JUNCTION     2.81     3.40     8.14     0  00:49        3.38
+  POINT330             JUNCTION     0.22     0.45    40.19     0  00:50        0.45
+  POINT331             JUNCTION     2.43     2.70     7.83     0  00:47        2.70
+  POINT332             JUNCTION     2.67     3.21     7.18     0  01:19        3.21
+  POINT333             JUNCTION     2.54     3.07     7.17     0  01:18        3.07
+  POINT334             JUNCTION     2.30     2.84     7.19     0  01:20        2.83
+  POINT336             JUNCTION     0.44     0.92    11.03     0  00:51        0.92
+  POINT337             JUNCTION     0.22     0.48    28.27     0  00:50        0.48
+  POINT339             JUNCTION     0.63     2.00    16.02     0  00:46        2.00
+  POINT340             JUNCTION     0.37     0.85    26.19     0  00:51        0.84
+  POINT341             JUNCTION     0.27     0.59    56.18     0  00:50        0.58
+  POINT343             JUNCTION     0.46     1.03    16.07     0  00:51        1.02
+  POINT344             JUNCTION     0.15     0.35    22.03     0  00:50        0.35
+  POINT345             JUNCTION     0.35     0.75    23.69     0  00:51        0.75
+  POINT346             JUNCTION     0.28     0.60    48.39     0  00:50        0.59
+  POINT347             JUNCTION     0.16     0.34    81.96     0  00:50        0.34
+  POINT348             JUNCTION     0.17     0.36   112.03     0  00:50        0.36
+  POINT349             JUNCTION     0.17     0.37    43.89     0  00:50        0.36
+  POINT351             JUNCTION     0.20     0.44    12.32     0  00:50        0.44
+  POINT353             JUNCTION     0.66     1.22     5.15     0  00:58        1.22
+  POINT354             JUNCTION     1.61     2.39     5.49     0  00:55        2.39
+  POINT355             JUNCTION     1.79     2.84     6.05     0  00:58        2.83
+  POINT356             JUNCTION     0.39     0.81     6.75     0  00:51        0.80
+  POINT357             JUNCTION     2.08     3.14     6.08     0  00:57        3.13
+  POINT358             JUNCTION     1.75     2.00     5.08     0  00:41        2.00
+  POINT359             JUNCTION     0.33     0.67    24.83     0  00:52        0.67
+  POINT360             JUNCTION     0.22     0.46    80.76     0  00:50        0.45
+  POINT361             JUNCTION     0.00     0.00    81.41     0  00:00        0.00
+  POINT363             JUNCTION     0.37     0.75     3.74     0  00:50        0.75
+  POINT365             JUNCTION     0.26     0.56     5.81     0  00:50        0.56
+  POINT367             JUNCTION     0.22     0.47     4.35     0  00:50        0.47
+  POINT368             JUNCTION     0.19     0.42    16.54     0  00:50        0.42
+  POINT369             JUNCTION     3.03     4.76     8.87     0  00:57        4.67
+  POINT370             JUNCTION     0.55     1.85     8.98     0  01:01        1.70
+  POINT371             JUNCTION     0.24     0.48    36.49     0  00:50        0.48
+  POINT373             JUNCTION     0.35     0.74    14.40     0  00:50        0.74
+  POINT374             JUNCTION     2.88     4.68     8.95     0  00:57        4.55
+  POINT375             JUNCTION     0.38     0.81    13.95     0  00:51        0.80
+  POINT376             JUNCTION     0.25     0.52    42.72     0  00:51        0.52
+  POINT377             JUNCTION     0.00     0.00    80.71     0  00:00        0.00
+  POINT378             JUNCTION     0.34     0.72    31.61     0  00:51        0.71
+  POINT379             JUNCTION     0.14     0.31    85.26     0  00:50        0.31
+  POINT380             JUNCTION     0.32     0.70    89.72     0  00:50        0.69
+  POINT381             JUNCTION     0.12     0.27   141.81     0  00:50        0.27
+  POINT382             JUNCTION     0.34     0.68    35.46     0  00:52        0.68
+  POINT383             JUNCTION     0.28     0.57    81.69     0  00:50        0.57
+  POINT385             JUNCTION     0.20     0.40   109.99     0  00:50        0.40
+  POINT387             JUNCTION     0.30     0.62    24.03     0  00:51        0.61
+  POINT388             JUNCTION     0.34     0.69    29.10     0  00:50        0.68
+  POINT505             JUNCTION     0.83     1.75    12.72     0  00:53        1.74
+  OUT014               JUNCTION     0.77     1.51    10.11     0  01:06        1.49
+  OUT001               JUNCTION     1.61     3.28     8.81     0  00:57        3.18
+  OUT027               OUTFALL      0.34     0.87    -1.13     0  00:55        0.87
+  OUT026               OUTFALL      0.41     0.81    -1.19     0  00:56        0.81
+  OUT025               OUTFALL      0.38     0.65    -0.35     0  01:16        0.63
+  OUT024               OUTFALL      0.36     0.79    -0.21     0  00:53        0.79
+  OUT023               OUTFALL      0.57     1.09    -0.91     0  00:59        1.09
+  OUT022               OUTFALL      1.11     2.11     1.11     0  01:03        2.10
+  OUT021               OUTFALL      0.65     1.18     3.65     0  01:14        1.16
+  OUT020               OUTFALL      0.45     0.98     1.98     0  00:53        0.97
+  OUT019               OUTFALL      0.60     1.30     5.30     0  00:52        1.28
+  OUT018               OUTFALL      0.58     1.27     2.27     0  00:52        1.26
+  OUT017               OUTFALL      0.45     0.90     0.90     0  00:55        0.90
+  OUT016               OUTFALL      0.62     1.30     4.01     0  00:52        1.28
+  OUT015               OUTFALL      0.64     1.32     0.32     0  00:54        1.32
+  OUT013               OUTFALL      0.82     1.27     4.27     0  01:14        1.27
+  OUT012               OUTFALL      0.43     0.92     9.02     0  00:51        0.91
+  OUT011               OUTFALL      0.58     1.34     9.64     0  00:59        1.34
+  OUT010               OUTFALL      0.46     1.02     7.10     0  00:51        1.01
+  OUT009               OUTFALL      0.19     0.43     5.94     0  00:50        0.43
+  OUT008               OUTFALL      0.66     1.22    -0.78     0  00:59        1.22
+  OUT007               OUTFALL      0.37     0.75    -1.25     0  00:50        0.74
+  OUT006               OUTFALL      0.26     0.56    -0.04     0  00:51        0.56
+  OUT005               OUTFALL      0.18     0.47     0.57     0  00:50        0.47
+  OUT004               OUTFALL      0.35     0.74     0.26     0  00:50        0.74
+  OUT003               OUTFALL      0.20     0.40    62.63     0  00:50        0.40
+  OUT002               OUTFALL      0.30     0.62     0.62     0  00:52        0.61
+  OUT014_OF            OUTFALL      0.72     1.44    10.02     0  01:06        1.41
+  OUT001_OF            OUTFALL      1.35     2.00     7.53     0  00:47        2.00
+  
+  
+  *******************
+  Node Inflow Summary
+  *******************
+  
+  -------------------------------------------------------------------------------------------------
+                                  Maximum  Maximum                  Lateral       Total        Flow
+                                  Lateral    Total  Time of Max      Inflow      Inflow     Balance
+                                   Inflow   Inflow   Occurrence      Volume      Volume       Error
+  Node                 Type           CMS      CMS  days hr:min    10^6 ltr    10^6 ltr     Percent
+  -------------------------------------------------------------------------------------------------
+  POINT239             JUNCTION     2.089   19.372     0  00:54         4.9        36.5       0.043
+  POINT240             JUNCTION    10.009   17.174     0  00:57        25.7        36.9      -0.145
+  POINT241             JUNCTION     6.983   11.585     0  00:50        17.1        28.8       0.000
+  POINT242             JUNCTION     4.270    8.176     0  00:46        10.7        11.4       2.765
+  POINT243             JUNCTION     2.108   12.901     0  00:52        4.95        35.7       6.798
+  POINT244             JUNCTION     2.160    6.313     0  00:53        5.08        26.9       0.000
+  POINT246             JUNCTION     2.618   10.508     0  00:55        6.26        27.1       0.132
+  POINT247             JUNCTION     2.135    8.237     0  00:55        5.02        21.5       0.000
+  POINT248             JUNCTION     2.141    6.440     0  00:54        5.03          17       3.978
+  POINT249             JUNCTION     4.735    4.735     0  00:50          12          12      -0.121
+  POINT251             JUNCTION     3.614    7.217     0  01:15        8.89          23       0.283
+  POINT252             JUNCTION     1.733    6.358     0  01:18        4.01          19      22.955
+  POINT253             JUNCTION     1.415    7.086     0  01:07        3.23        19.9      48.273
+  POINT254             JUNCTION     2.577    7.674     0  00:50        6.15        19.7      45.969
+  POINT255             JUNCTION     1.449    2.972     0  01:02        3.32        4.23       0.000
+  POINT256             JUNCTION     5.223    5.223     0  00:50        13.4        13.4      -1.109
+  POINT258             JUNCTION     2.905    7.829     0  00:51           7        19.2       0.295
+  POINT259             JUNCTION     2.456    5.062     0  00:50        5.84        12.2       0.280
+  POINT260             JUNCTION     2.653    2.653     0  00:50        6.35        6.35      -0.064
+  POINT262             JUNCTION     3.849   18.803     0  00:57        9.52        51.6       0.409
+  POINT263             JUNCTION     2.661   14.871     0  00:54        6.37        37.3       3.983
+  POINT264             JUNCTION     3.427   11.046     0  00:50        8.39        27.7      -0.042
+  POINT265             JUNCTION     3.151    7.725     0  00:50        7.65        19.3       0.006
+  POINT266             JUNCTION     4.609    4.609     0  00:50        11.6        11.6       0.025
+  POINT267             JUNCTION     1.394    2.061     0  00:42        3.18        3.53       0.000
+  POINT268             JUNCTION     2.822    2.822     0  00:50        6.79        6.82       0.000
+  POINT270             JUNCTION     4.431   48.563     0  01:00        11.1         140       0.775
+  POINT271             JUNCTION     3.352    3.352     0  00:50        8.18        8.19       0.000
+  POINT272             JUNCTION     3.199    5.839     0  00:48        7.78        16.9       1.834
+  POINT273             JUNCTION     3.686    3.686     0  00:50        9.08        9.08      -0.136
+  POINT275             JUNCTION     6.659   24.546     0  01:12        17.6        63.4       0.652
+  POINT276             JUNCTION     2.983   31.421     0  01:01        7.21        35.6      27.503
+  POINT277             JUNCTION     2.505   29.861     0  01:00        5.96        43.5       0.000
+  POINT278             JUNCTION     3.433   31.356     0  00:54         8.4          44       0.000
+  POINT279             JUNCTION     2.181   34.113     0  00:58        5.14        74.8      15.831
+  POINT280             JUNCTION     2.878   15.952     0  00:50        6.93        40.3      -0.028
+  POINT281             JUNCTION     5.718    5.718     0  00:50        14.8        14.8       0.004
+  POINT282             JUNCTION     3.478    7.476     0  00:50        8.52        18.6       0.059
+  POINT283             JUNCTION     4.046    4.046     0  00:50        10.1        10.1       0.029
+  POINT284             JUNCTION     5.733   39.910     0  00:54        14.8         105       0.841
+  POINT285             JUNCTION     4.442   21.813     0  00:54        11.2          58       0.282
+  POINT286             JUNCTION     3.548   12.929     0  00:51        8.71        32.1      -0.183
+  POINT287             JUNCTION     2.835    9.484     0  00:50        6.82        23.3       0.031
+  POINT288             JUNCTION     2.807    6.725     0  00:50        6.75        16.5       0.102
+  POINT289             JUNCTION     3.948    3.948     0  00:50         9.8         9.8       0.013
+  POINT290             JUNCTION     7.890   12.763     0  00:50        21.4        33.9       0.104
+  POINT291             JUNCTION     4.932    4.932     0  00:50        12.5        12.5       0.048
+  POINT293             JUNCTION     4.420    8.843     0  00:50        11.1        22.6       0.358
+  POINT294             JUNCTION     4.566    4.566     0  00:50        11.5        11.5       0.104
+  POINT296             JUNCTION     6.135    9.159     0  00:50          16        23.4       0.385
+  POINT297             JUNCTION     3.062    3.062     0  00:50        7.42        7.42      -0.012
+  POINT299             JUNCTION     4.202    8.093     0  00:50        10.5        20.3       0.241
+  POINT300             JUNCTION     3.960    3.960     0  00:50        9.83        9.83       0.032
+  POINT302             JUNCTION     1.957   10.460     0  00:51        4.57        23.8       7.477
+  POINT303             JUNCTION     4.414    4.414     0  00:50        11.1        11.1      -0.392
+  POINT304             JUNCTION     3.504    4.142     0  00:43        8.59        9.08       0.000
+  POINT305             JUNCTION     3.233   15.435     0  00:53        7.87        39.3       0.249
+  POINT306             JUNCTION     4.539    4.965     0  00:45        11.4        11.8       0.000
+  POINT307             JUNCTION     6.194    6.194     0  00:50        16.2        16.2      -0.396
+  POINT309             JUNCTION     7.987    7.987     0  00:50        21.7        21.7       0.165
+  POINT311             JUNCTION     4.059   14.997     0  00:50        10.1          39       0.555
+  POINT312             JUNCTION     7.038    7.038     0  00:50        18.7        18.7       0.071
+  POINT313             JUNCTION     4.074    4.074     0  00:50        10.1        10.1      -0.102
+  POINT315             JUNCTION     0.000   12.803     0  00:51           0        26.8       0.000
+  POINT316             JUNCTION     2.694    7.014     0  00:50        6.45        17.5      -0.336
+  POINT317             JUNCTION     4.401    4.401     0  00:50          11          11       0.130
+  POINT319             JUNCTION     2.457   13.725     0  01:12        5.84        51.8       0.628
+  POINT320             JUNCTION     1.703    8.437     0  01:11        3.94        25.2       0.827
+  POINT321             JUNCTION     1.908    6.377     0  01:01        4.45        15.8       0.000
+  POINT322             JUNCTION     2.441    6.121     0  01:01         5.8        16.2       0.000
+  POINT323             JUNCTION     3.303    5.899     0  00:50        8.05        14.6      68.817
+  POINT324             JUNCTION     2.654    4.337     0  01:05        6.35        6.97      22.225
+  POINT325             JUNCTION     2.374    2.374     0  00:50        5.63        5.63      -1.471
+  POINT326             JUNCTION     2.652    9.743     0  00:53        6.34        24.9       3.060
+  POINT327             JUNCTION     2.383    8.947     0  00:50        5.65        19.2       0.000
+  POINT328             JUNCTION     2.530    7.826     0  00:49        6.03        14.3       0.124
+  POINT329             JUNCTION     2.499    8.502     0  00:47        5.95        21.1       0.000
+  POINT330             JUNCTION     5.323    5.323     0  00:50        13.7        13.7      -0.371
+  POINT331             JUNCTION     1.770    7.872     0  00:53         4.1        12.3       9.282
+  POINT332             JUNCTION     2.643    6.191     0  01:01        6.32        14.5      32.113
+  POINT333             JUNCTION     2.695    5.232     0  01:00        6.45        11.2      42.239
+  POINT334             JUNCTION     2.466    2.466     0  00:50        5.86        5.91      31.083
+  POINT336             JUNCTION     4.729    8.680     0  00:50          12        21.9       0.194
+  POINT337             JUNCTION     3.989    3.989     0  00:50        9.91        9.91       0.003
+  POINT339             JUNCTION     3.024    9.586     0  00:51        7.32          24       0.093
+  POINT340             JUNCTION     1.724    6.679     0  00:50        3.99        16.7       0.136
+  POINT341             JUNCTION     5.001    5.001     0  00:50        12.7        12.7       0.039
+  POINT343             JUNCTION     1.991   18.831     0  00:51        4.66        46.2       0.093
+  POINT344             JUNCTION     2.005    2.005     0  00:50        4.69        4.69      -0.137
+  POINT345             JUNCTION     1.200   14.953     0  00:50        2.71        36.9       0.073
+  POINT346             JUNCTION     2.712   10.562     0  00:50         6.5        26.1       0.080
+  POINT347             JUNCTION     4.377    4.377     0  00:50          11          11      -0.006
+  POINT348             JUNCTION     3.518    3.518     0  00:50        8.63        8.63      -0.002
+  POINT349             JUNCTION     3.306    3.306     0  00:50        8.06        8.06      -0.032
+  POINT351             JUNCTION     2.676    2.676     0  00:50         6.4         6.4       0.030
+  POINT353             JUNCTION     5.583   26.841     0  00:57        14.4        76.6       0.493
+  POINT354             JUNCTION     7.847    7.847     0  00:50        21.2        21.3       0.000
+  POINT355             JUNCTION     3.345   15.320     0  00:55        8.17        44.4       6.012
+  POINT356             JUNCTION     5.340    5.340     0  00:50        13.7        13.7      -0.415
+  POINT357             JUNCTION     2.294   13.294     0  00:51        5.42        36.2       0.000
+  POINT358             JUNCTION     2.455    7.315     0  00:55        5.84        17.3       1.563
+  POINT359             JUNCTION     5.445   11.224     0  00:50          14        29.2      -0.016
+  POINT360             JUNCTION     5.851    5.851     0  00:50        15.2        15.2       0.031
+  POINT361             JUNCTION     0.000    0.000     0  00:00           0           0       0.000 ltr
+  POINT363             JUNCTION     6.931    6.931     0  00:50        18.4        18.4       0.079
+  POINT365             JUNCTION     3.705    3.705     0  00:50        9.13        9.13       0.106
+  POINT367             JUNCTION     2.920    6.272     0  00:50        7.04        15.3       0.024
+  POINT368             JUNCTION     3.374    3.374     0  00:50        8.25        8.25       0.001
+  POINT369             JUNCTION     0.000   38.002     0  00:56           0         101       0.000
+  POINT370             JUNCTION     2.662    8.947     0  00:51        6.37        22.8       0.130
+  POINT371             JUNCTION     6.224    6.224     0  00:50        16.3        16.3      -0.084
+  POINT373             JUNCTION     6.379    6.379     0  00:50        16.7        16.7       0.061
+  POINT374             JUNCTION     1.763   32.203     0  00:51        4.09        82.2       5.722
+  POINT375             JUNCTION     1.960   18.224     0  00:51        4.58        45.1      -0.078
+  POINT376             JUNCTION     4.300    8.357     0  00:50        10.8        20.9       0.098
+  POINT377             JUNCTION     0.000    0.000     0  00:00           0           0       0.000 ltr
+  POINT378             JUNCTION     2.648   16.352     0  00:50        6.33        40.6       0.056
+  POINT379             JUNCTION     2.178    5.483     0  00:50        5.13        13.3      -0.015
+  POINT380             JUNCTION     3.349    3.349     0  00:50        8.18        8.18       0.069
+  POINT381             JUNCTION     4.086    4.086     0  00:50        10.2        10.2      -0.033
+  POINT382             JUNCTION     5.391   12.458     0  00:50        13.8        32.9      -0.258
+  POINT383             JUNCTION     7.132    7.132     0  00:50          19          19       0.042
+  POINT385             JUNCTION     6.702    6.702     0  00:50        17.7        17.7       0.028
+  POINT387             JUNCTION     4.646   10.435     0  00:51        11.7          27       0.148
+  POINT388             JUNCTION     5.883    5.883     0  00:50        15.3        15.3       0.110
+  POINT505             JUNCTION     5.166   17.750     0  00:51        13.2          47       0.467
+  OUT014               JUNCTION     4.112    9.042     0  01:02        10.2        25.3       0.291
+  OUT001               JUNCTION     2.208   38.728     0  00:57        5.21         104       0.125
+  OUT027               OUTFALL      0.000   19.540     0  00:55           0        36.5       0.000
+  OUT026               OUTFALL      0.000   10.513     0  00:56           0          27       0.000
+  OUT025               OUTFALL      0.000    7.089     0  01:16           0        20.5       0.000
+  OUT024               OUTFALL      0.000    7.793     0  00:53           0        19.1       0.000
+  OUT023               OUTFALL      0.000   18.720     0  00:59           0        51.3       0.000
+  OUT022               OUTFALL      0.000   48.350     0  01:03           0         138       0.000
+  OUT021               OUTFALL      0.000   21.798     0  01:14           0        57.3       0.000
+  OUT020               OUTFALL      0.000    8.833     0  00:53           0        22.5       0.000
+  OUT019               OUTFALL      0.000    9.138     0  00:52           0        23.3       0.000
+  OUT018               OUTFALL      0.000    8.057     0  00:52           0        20.3       0.000
+  OUT017               OUTFALL      0.000   15.295     0  00:55           0        38.6       0.000
+  OUT016               OUTFALL      0.000    7.999     0  00:52           0        21.6       0.000
+  OUT015               OUTFALL      0.000   14.792     0  00:54           0        38.7       0.000
+  OUT013               OUTFALL      0.000   13.317     0  01:14           0        51.3       0.000
+  OUT012               OUTFALL      0.000    8.655     0  00:51           0        21.8       0.000
+  OUT011               OUTFALL      0.000    7.519     0  00:59           0        22.7       0.000
+  OUT010               OUTFALL      0.000   18.833     0  00:51           0        46.2       0.000
+  OUT009               OUTFALL      0.000    2.660     0  00:50           0         6.4       0.000
+  OUT008               OUTFALL      0.000   26.821     0  00:59           0        75.7       0.000
+  OUT007               OUTFALL      0.000    6.937     0  00:50           0        18.4       0.000
+  OUT006               OUTFALL      0.000    3.672     0  00:51           0        9.13       0.000
+  OUT005               OUTFALL      0.000    6.258     0  00:50           0        15.3       0.000
+  OUT004               OUTFALL      0.000    6.373     0  00:50           0        16.7       0.000
+  OUT003               OUTFALL      0.000    6.691     0  00:50           0        17.7       0.000
+  OUT002               OUTFALL      0.000   10.404     0  00:52           0          27       0.000
+  OUT014_OF            OUTFALL      0.000    8.770     0  01:06           0        21.7       0.000
+  OUT001_OF            OUTFALL      0.000   38.605     0  00:58           0         103       0.000
+  
+  
+  **********************
+  Node Surcharge Summary
+  **********************
+  
+  Surcharging occurs when water rises above the top of the highest conduit.
+  ---------------------------------------------------------------------
+                                               Max. Height   Min. Depth
+                                   Hours       Above Crown    Below Rim
+  Node                 Type      Surcharged         Meters       Meters
+  ---------------------------------------------------------------------
+  POINT244             JUNCTION        2.36          0.500        0.000
+  POINT331             JUNCTION        0.78          0.000        0.000
+  POINT339             JUNCTION        0.29          0.575        0.000
+  POINT358             JUNCTION        1.50          0.350        0.000
+  
+  
+  *********************
+  Node Flooding Summary
+  *********************
+  
+  Flooding refers to all water that overflows a node, whether it ponds or not.
+  --------------------------------------------------------------------------
+                                                             Total   Maximum
+                                 Maximum   Time of Max       Flood    Ponded
+                        Hours       Rate    Occurrence      Volume     Depth
+  Node                 Flooded       CMS   days hr:min    10^6 ltr    Meters
+  --------------------------------------------------------------------------
+  POINT244                2.36     6.313      0  00:53      26.107     0.000
+  POINT331                0.78     7.872      0  00:53      10.597     0.000
+  POINT339                0.26     2.066      0  00:51       1.291     0.000
+  POINT358                1.03     7.315      0  00:55      15.623     0.000
+  
+  
+  ***********************
+  Outfall Loading Summary
+  ***********************
+  
+  ---------------------------------------------------------------------------------------
+                         Flow       Avg       Max       Total         Total         Total
+                         Freq      Flow      Flow      Volume        TRACER          NH4N
+  Outfall Node           Pcnt       CMS       CMS    10^6 ltr            kg            kg
+  ---------------------------------------------------------------------------------------
+  OUT027                99.61     4.387    19.540      36.454      1276.741       145.913
+  OUT026                99.67     3.248    10.513      26.953       943.574       107.837
+  OUT025                99.61     2.760     7.089      20.495       717.341        81.982
+  OUT024                99.67     2.229     7.793      19.100       668.530        76.403
+  OUT023                99.61     6.351    18.720      51.285      1795.315       205.179
+  OUT022                99.67    17.499    48.350     138.447      4846.283       553.861
+  OUT021                99.61     7.809    21.798      57.298      2005.543       229.205
+  OUT020                99.67     2.611     8.833      22.512       788.109        90.070
+  OUT019                99.61     2.696     9.138      23.345       817.378        93.415
+  OUT018                99.61     2.323     8.057      20.271       709.738        81.113
+  OUT017                99.61     4.714    15.295      38.615      1351.992       154.513
+  OUT016                99.64     2.482     7.999      21.619       756.991        86.513
+  OUT015                99.67     4.545    14.792      38.748      1356.557       155.035
+  OUT013                99.67     6.677    13.317      51.337      1796.949       205.366
+  OUT012                99.67     2.482     8.655      21.827       764.220        87.339
+  OUT011                99.64     2.633     7.519      22.697       794.743        90.828
+  OUT010                99.67     5.228    18.833      46.151      1615.970       184.682
+  OUT009                99.67     0.709     2.660       6.403       224.209        25.624
+  OUT008                99.61     9.161    26.821      75.706      2650.334       302.895
+  OUT007                99.67     2.084     6.937      18.389       643.921        73.591
+  OUT006                99.67     1.028     3.672       9.125       319.501        36.514
+  OUT005                99.58     1.705     6.258      15.283       535.132        61.158
+  OUT004                99.67     1.889     6.373      16.735       586.018        66.973
+  OUT003                99.58     2.002     6.691      17.707       620.067        70.865
+  OUT002                99.67     3.084    10.404      26.951       943.580       107.838
+  OUT014_OF             99.33     2.953     8.770      21.691       759.352        86.783
+  OUT001_OF             99.22    12.814    38.605     103.304      3616.519       413.316
+  ---------------------------------------------------------------------------------------
+  System                99.61   118.103   317.632     968.449     33904.606      3874.812
+  
+  
+  ********************
+  Link Flow Summary
+  ********************
+  
+  -----------------------------------------------------------------------------
+                                 Maximum  Time of Max   Maximum    Max/    Max/
+                                  |Flow|   Occurrence   |Veloc|    Full    Full
+  Link                 Type          CMS  days hr:min     m/sec    Flow   Depth
+  -----------------------------------------------------------------------------
+  pip173               CONDUIT     4.687     0  00:50      0.60    0.05    0.66
+  pip174               CONDUIT    10.897     0  00:52      0.69    0.18    0.79
+  pip175               CONDUIT     8.337     0  00:57      1.58    0.03    0.39
+  pip176               CONDUIT    17.467     0  00:54      5.42    0.08    0.17
+  pip177               CONDUIT    19.540     0  00:55      8.63    0.07    0.18
+  pip178               CONDUIT     4.343     0  00:57      2.46    3.23    1.00
+  pip179               CONDUIT     4.504     0  00:55      1.53    0.37    0.68
+  pip180               CONDUIT     6.361     0  00:56      1.02    0.64    0.54
+  pip181               CONDUIT     8.226     0  00:57      1.88    0.11    0.31
+  pip182               CONDUIT    10.513     0  00:56      5.30    0.07    0.18
+  pip183               CONDUIT     5.146     0  00:51      1.86    0.03    0.42
+  pip184               CONDUIT     5.651     0  01:07      0.83    0.06    0.64
+  pip185               CONDUIT     2.014     0  01:02      0.22    0.06    0.67
+  pip186               CONDUIT     5.760     0  01:18      0.62    0.05    0.60
+  pip187               CONDUIT     5.717     0  01:19      1.01    0.03    0.44
+  pip188               CONDUIT     7.089     0  01:16      4.23    0.02    0.11
+  pip189               CONDUIT     2.622     0  00:50      1.66    0.10    0.28
+  pip190               CONDUIT     5.026     0  00:52      1.94    0.07    0.15
+  pip191               CONDUIT     7.793     0  00:53      3.26    0.03    0.12
+  pip192               CONDUIT     4.589     0  00:50      6.49    0.27    0.37
+  pip193               CONDUIT     7.667     0  00:51      3.27    0.03    0.18
+  pip194               CONDUIT    10.721     0  00:53      1.89    0.10    0.30
+  pip195               CONDUIT    13.351     0  00:58      2.10    0.16    0.28
+  pip196               CONDUIT     1.861     0  01:01      0.38    0.28    0.61
+  pip197               CONDUIT     2.251     0  00:55      0.77    0.04    0.24
+  pip198               CONDUIT    18.720     0  00:59      6.06    0.11    0.23
+  pip199               CONDUIT     4.894     0  00:50      3.39    0.12    0.25
+  pip200               CONDUIT    12.676     0  00:52      3.78    0.09    0.32
+  pip201               CONDUIT    17.620     0  00:54      3.97    0.61    0.57
+  pip202               CONDUIT     3.930     0  00:50      4.18    0.08    0.23
+  pip203               CONDUIT     6.686     0  00:50      4.94    0.11    0.22
+  pip204               CONDUIT     9.446     0  00:51      4.12    0.06    0.20
+  pip205               CONDUIT    12.663     0  00:53      1.83    0.04    0.22
+  pip206               CONDUIT    21.796     0  00:55      4.08    0.63    0.67
+  pip207               CONDUIT    39.189     0  00:58      4.78    0.49    0.46
+  pip208               CONDUIT     2.439     0  01:01      0.61    0.08    0.46
+  pip209               CONDUIT     3.286     0  01:03      0.92    0.09    0.44
+  pip210               CONDUIT     6.287     0  01:05      0.93    0.41    0.44
+  pip211               CONDUIT    48.350     0  01:03      6.31    0.40    0.44
+  pip212               CONDUIT     4.017     0  00:50      3.64    0.06    0.18
+  pip213               CONDUIT     7.432     0  00:51      3.50    0.05    0.19
+  pip214               CONDUIT    15.838     0  00:51      5.29    0.12    0.49
+  pip215               CONDUIT    27.974     0  01:00      1.58    0.15    0.66
+  pip216               CONDUIT    26.121     0  01:01      1.76    0.55    0.98
+  pip217               CONDUIT    14.134     0  01:04      1.30    0.06    0.42
+  pip218               CONDUIT     6.163     0  00:50      3.54    0.06    0.56
+  pip219               CONDUIT    26.061     0  00:54      1.77    0.15    0.76
+  pip220               CONDUIT    10.469     0  01:11      0.92    0.08    0.62
+  pip221               CONDUIT    21.798     0  01:14      6.53    0.15    0.26
+  pip222               CONDUIT     4.481     0  00:51      2.05    0.10    0.23
+  pip223               CONDUIT     8.833     0  00:53      2.80    0.05    0.15
+  pip224               CONDUIT     3.038     0  00:50      2.66    0.48    0.75
+  pip225               CONDUIT     9.138     0  00:52      2.73    0.56    0.47
+  pip226               CONDUIT     3.919     0  00:50      1.97    0.19    0.40
+  pip227               CONDUIT     8.057     0  00:52      3.05    0.52    0.50
+  pip228               CONDUIT     4.375     0  00:50      2.15    0.07    0.42
+  pip229               CONDUIT     4.226     0  00:51      0.51    0.05    0.50
+  pip230               CONDUIT     8.572     0  00:58      1.71    0.15    0.39
+  pip231               CONDUIT    15.295     0  00:55      7.01    0.10    0.21
+  pip232               CONDUIT     4.782     0  00:52      0.75    0.05    0.35
+  pip233               CONDUIT     5.686     0  00:50      3.13    0.02    0.17
+  pip234               CONDUIT     7.999     0  00:52      2.95    0.72    0.58
+  pip235               CONDUIT     4.016     0  00:51      1.91    0.05    0.25
+  pip236               CONDUIT     6.979     0  00:51      3.67    0.42    0.54
+  pip237               CONDUIT    14.792     0  00:54      4.57    0.33    0.40
+  pip238               CONDUIT     4.375     0  00:51      3.15    0.07    0.15
+  pip239               CONDUIT     6.991     0  00:51      1.76    0.02    0.55
+  pip240               CONDUIT     2.337     0  00:50      0.89    0.02    0.55
+  pip241               CONDUIT     6.311     0  01:05      1.15    0.01    0.50
+  pip242               CONDUIT     2.882     0  01:14      0.88    0.02    0.61
+  pip243               CONDUIT     4.973     0  01:13      0.48    0.29    0.84
+  pip244               CONDUIT     5.437     0  01:16      0.49    0.02    0.41
+  pip245               CONDUIT     5.941     0  01:03      0.85    0.03    0.42
+  pip246               CONDUIT     7.319     0  01:16      2.62    0.05    0.20
+  pip247               CONDUIT    13.317     0  01:14      2.91    0.09    0.20
+  pip248               CONDUIT     5.069     0  01:07      0.54    0.09    0.67
+  pip249               CONDUIT     3.214     0  01:00      0.71    0.07    0.59
+  pip250               CONDUIT     4.290     0  01:01      0.79    0.13    0.63
+  pip251               CONDUIT     4.971     0  00:50      6.00    0.32    0.48
+  pip252               CONDUIT     6.620     0  00:51      4.86    0.66    0.80
+  pip253               CONDUIT     7.519     0  00:59      5.00    1.07    0.97
+  pip254               CONDUIT     3.967     0  00:50      3.77    0.10    0.31
+  pip255               CONDUIT     8.655     0  00:51      3.57    0.08    0.19
+  pip256               CONDUIT     3.505     0  00:50      6.47    0.09    0.27
+  pip257               CONDUIT     4.359     0  00:50      4.79    0.01    0.10
+  pip258               CONDUIT    10.498     0  00:51      8.77    0.08    0.22
+  pip259               CONDUIT     3.283     0  00:50      3.13    0.02    0.14
+  pip260               CONDUIT    14.913     0  00:51      8.42    0.13    0.29
+  pip261               CONDUIT     1.990     0  00:50      1.41    0.02    0.17
+  pip262               CONDUIT    18.833     0  00:51      8.74    0.24    0.34
+  pip264               CONDUIT     2.660     0  00:50      3.79    0.03    0.12
+  pip265               CONDUIT     5.283     0  00:50      1.80    0.04    0.57
+  pip266               CONDUIT     6.223     0  00:53      1.09    0.58    1.00
+  pip267               CONDUIT     5.302     0  00:49      0.84    0.05    0.51
+  pip268               CONDUIT     6.602     0  00:50      1.89    0.07    0.34
+  pip269               CONDUIT     7.263     0  00:53      1.14    1.13    0.51
+  pip270               CONDUIT     8.710     0  00:56      1.83    0.25    0.40
+  pip271               CONDUIT     0.000     0  00:00      0.00    0.00    0.12
+  pip272               CONDUIT    11.088     0  00:52      2.33    0.06    0.46
+  pip273               CONDUIT     5.811     0  00:50      6.35    0.05    0.19
+  pip274               CONDUIT     5.188     0  00:58      2.43    2.65    1.00
+  pip275               CONDUIT     7.313     0  00:56      0.79    0.34    0.73
+  pip276               CONDUIT    14.721     0  00:59      2.26    0.39    0.49
+  pip277               CONDUIT     5.264     0  00:51      1.91    0.13    0.55
+  pip278               CONDUIT     7.572     0  00:55      1.42    0.19    0.44
+  pip279               CONDUIT    26.821     0  00:59      6.73    0.10    0.22
+  pip280               CONDUIT     6.691     0  00:50      9.19    0.01    0.08
+  pip281               CONDUIT     6.937     0  00:50      5.00    0.14    0.25
+  pip282               CONDUIT     3.672     0  00:51      3.53    0.05    0.15
+  pip283               CONDUIT     7.099     0  00:50      8.21    0.16    0.30
+  pip284               CONDUIT    12.316     0  00:52      1.93    0.04    0.52
+  pip285               CONDUIT    32.735     0  00:59      1.75    0.59    0.94
+  pip286               CONDUIT     3.361     0  00:50      5.39    0.05    0.17
+  pip287               CONDUIT     6.258     0  00:50      3.92    0.00    0.03
+  pip288               CONDUIT     4.070     0  00:50      5.72    0.01    0.08
+  pip289               CONDUIT     0.000     0  00:00      0.00    0.00    0.05
+  pip290               CONDUIT     8.275     0  00:51      5.97    0.02    0.13
+  pip291               CONDUIT     3.330     0  00:50      5.24    0.20    0.24
+  pip292               CONDUIT     5.478     0  00:50      5.24    0.01    0.10
+  pip293               CONDUIT    16.316     0  00:51      8.71    0.05    0.16
+  pip294               CONDUIT    18.203     0  00:51      2.90    0.06    0.55
+  pip295               CONDUIT     6.179     0  00:50      4.46    0.03    0.27
+  pip296               CONDUIT    14.093     0  01:03      1.41    0.12    0.71
+  pip297               CONDUIT    36.886     0  00:57      1.03    0.01    0.29
+  pip298               CONDUIT     6.373     0  00:50      7.05    0.45    0.47
+  pip299               CONDUIT     5.854     0  00:51      4.07    0.05    0.14
+  pip300               CONDUIT    10.404     0  00:52      7.79    0.04    0.13
+  OUT_LINK_OUT014      CONDUIT     8.770     0  01:06      3.53    2.58    0.74
+  OUT_LINK_OUT001      CONDUIT    38.605     0  00:58     12.29   11.34    1.00
+  
+  
+  ***************************
+  Flow Classification Summary
+  ***************************
+  
+  -------------------------------------------------------------------------------------
+                      Adjusted    ---------- Fraction of Time in Flow Class ---------- 
+                       /Actual         Up    Down  Sub   Sup   Up    Down  Norm  Inlet 
+  Conduit               Length    Dry  Dry   Dry   Crit  Crit  Crit  Crit  Ltd   Ctrl  
+  -------------------------------------------------------------------------------------
+  pip173                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.20  0.00
+  pip174                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.13  0.00
+  pip175                  1.00   0.03  0.00  0.00  0.89  0.08  0.00  0.00  0.58  0.00
+  pip176                  1.00   0.03  0.00  0.00  0.08  0.88  0.00  0.00  0.03  0.00
+  pip177                  1.00   0.03  0.01  0.00  0.00  0.96  0.00  0.00  0.42  0.00
+  pip178                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.12  0.00
+  pip179                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.60  0.00
+  pip180                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.09  0.00
+  pip181                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.18  0.00
+  pip182                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.53  0.00
+  pip183                  1.00   0.03  0.00  0.00  0.87  0.10  0.00  0.00  0.94  0.00
+  pip184                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.16  0.00
+  pip185                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.07  0.00
+  pip186                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.12  0.00
+  pip187                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.32  0.00
+  pip188                  1.00   0.04  0.00  0.00  0.01  0.96  0.00  0.00  0.55  0.00
+  pip189                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.84  0.00
+  pip190                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip191                  1.00   0.03  0.00  0.00  0.07  0.90  0.00  0.00  0.32  0.00
+  pip192                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.82  0.00
+  pip193                  1.00   0.03  0.00  0.00  0.40  0.57  0.00  0.00  0.97  0.00
+  pip194                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.79  0.00
+  pip195                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.17  0.00
+  pip196                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.07  0.00
+  pip197                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.15  0.00
+  pip198                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.49  0.00
+  pip199                  1.00   0.03  0.00  0.00  0.17  0.80  0.00  0.00  0.73  0.00
+  pip200                  1.00   0.03  0.00  0.00  0.03  0.94  0.00  0.00  0.97  0.00
+  pip201                  1.00   0.03  0.00  0.00  0.12  0.85  0.00  0.00  0.70  0.00
+  pip202                  1.00   0.03  0.00  0.00  0.02  0.95  0.00  0.00  0.97  0.00
+  pip203                  1.00   0.03  0.00  0.00  0.04  0.93  0.00  0.00  0.80  0.00
+  pip204                  1.00   0.03  0.00  0.00  0.09  0.88  0.00  0.00  0.93  0.00
+  pip205                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.81  0.00
+  pip206                  1.00   0.03  0.00  0.00  0.81  0.16  0.00  0.00  0.72  0.00
+  pip207                  1.00   0.03  0.00  0.00  0.36  0.61  0.00  0.00  0.68  0.00
+  pip208                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.12  0.00
+  pip209                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.20  0.00
+  pip210                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.07  0.00
+  pip211                  1.00   0.03  0.00  0.00  0.06  0.91  0.00  0.00  0.47  0.00
+  pip212                  1.00   0.03  0.00  0.00  0.04  0.93  0.00  0.00  0.91  0.00
+  pip213                  1.00   0.03  0.00  0.00  0.18  0.79  0.00  0.00  0.97  0.00
+  pip214                  1.00   0.03  0.00  0.00  0.73  0.24  0.00  0.00  0.59  0.00
+  pip215                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.22  0.00
+  pip216                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.17  0.00
+  pip217                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.31  0.00
+  pip218                  1.00   0.03  0.00  0.00  0.72  0.25  0.00  0.00  0.89  0.00
+  pip219                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.21  0.00
+  pip220                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.28  0.00
+  pip221                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.33  0.00
+  pip222                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.74  0.00
+  pip223                  1.00   0.03  0.00  0.00  0.25  0.72  0.00  0.00  0.10  0.00
+  pip224                  1.00   0.03  0.00  0.00  0.88  0.09  0.00  0.00  0.97  0.00
+  pip225                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip226                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.95  0.00
+  pip227                  1.00   0.03  0.00  0.00  0.94  0.02  0.00  0.00  0.00  0.00
+  pip228                  1.00   0.03  0.00  0.00  0.84  0.13  0.00  0.00  0.87  0.00
+  pip229                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.16  0.00
+  pip230                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.20  0.00
+  pip231                  1.00   0.04  0.00  0.00  0.00  0.96  0.00  0.00  0.51  0.00
+  pip232                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.22  0.00
+  pip233                  1.00   0.03  0.00  0.00  0.07  0.90  0.00  0.00  0.97  0.00
+  pip234                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip235                  1.00   0.03  0.00  0.00  0.87  0.10  0.00  0.00  0.95  0.00
+  pip236                  1.00   0.03  0.00  0.00  0.04  0.93  0.00  0.00  0.77  0.00
+  pip237                  1.00   0.03  0.00  0.00  0.05  0.92  0.00  0.00  0.53  0.00
+  pip238                  1.00   0.03  0.00  0.00  0.09  0.88  0.00  0.00  0.00  0.00
+  pip239                  1.00   0.03  0.00  0.00  0.87  0.10  0.00  0.00  0.97  0.00
+  pip240                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.97  0.00
+  pip241                  1.00   0.03  0.00  0.00  0.91  0.05  0.00  0.00  0.27  0.00
+  pip242                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.27  0.00
+  pip243                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip244                  1.00   0.03  0.01  0.00  0.96  0.00  0.00  0.00  0.34  0.00
+  pip245                  1.00   0.03  0.01  0.00  0.96  0.00  0.00  0.00  0.27  0.00
+  pip246                  1.00   0.03  0.01  0.00  0.96  0.01  0.00  0.00  0.97  0.00
+  pip247                  1.00   0.03  0.00  0.00  0.92  0.04  0.00  0.00  0.00  0.00
+  pip248                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.15  0.00
+  pip249                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.04  0.00
+  pip250                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip251                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.96  0.00
+  pip252                  1.00   0.03  0.00  0.00  0.03  0.94  0.00  0.00  0.97  0.00
+  pip253                  1.00   0.03  0.00  0.00  0.11  0.86  0.00  0.00  0.47  0.00
+  pip254                  1.00   0.03  0.00  0.00  0.03  0.94  0.00  0.00  0.97  0.00
+  pip255                  1.00   0.03  0.00  0.00  0.05  0.92  0.00  0.00  0.45  0.00
+  pip256                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.97  0.00
+  pip257                  1.00   0.03  0.00  0.00  0.01  0.95  0.00  0.00  0.97  0.00
+  pip258                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.97  0.00
+  pip259                  1.00   0.03  0.00  0.00  0.03  0.94  0.00  0.00  0.97  0.00
+  pip260                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.97  0.00
+  pip261                  1.00   0.03  0.00  0.00  0.94  0.03  0.00  0.00  0.97  0.00
+  pip262                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.56  0.00
+  pip264                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.40  0.00
+  pip265                  1.00   0.03  0.00  0.00  0.84  0.13  0.00  0.00  0.97  0.00
+  pip266                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.15  0.00
+  pip267                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.23  0.00
+  pip268                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.97  0.00
+  pip269                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.04  0.00
+  pip270                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.18  0.00
+  pip271                  1.00   0.03  0.97  0.00  0.00  0.00  0.00  0.00  0.00  0.00
+  pip272                  1.00   0.03  0.00  0.00  0.82  0.15  0.00  0.00  0.97  0.00
+  pip273                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.96  0.00
+  pip274                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.00  0.00
+  pip275                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.14  0.00
+  pip276                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.20  0.00
+  pip277                  1.00   0.03  0.00  0.00  0.87  0.10  0.00  0.00  0.80  0.00
+  pip278                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.16  0.00
+  pip279                  1.00   0.03  0.00  0.00  0.00  0.96  0.00  0.00  0.45  0.00
+  pip280                  1.00   0.03  0.01  0.00  0.00  0.96  0.00  0.00  0.47  0.00
+  pip281                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.56  0.00
+  pip282                  1.00   0.03  0.00  0.00  0.02  0.95  0.00  0.00  0.42  0.00
+  pip283                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.92  0.00
+  pip284                  1.00   0.03  0.00  0.00  0.88  0.09  0.00  0.00  0.97  0.00
+  pip285                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.12  0.00
+  pip286                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.75  0.00
+  pip287                  1.00   0.03  0.01  0.00  0.00  0.96  0.00  0.00  0.15  0.00
+  pip288                  1.00   0.03  0.01  0.00  0.01  0.96  0.00  0.00  0.95  0.00
+  pip289                  1.00   0.03  0.97  0.00  0.00  0.00  0.00  0.00  0.00  0.00
+  pip290                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.97  0.00
+  pip291                  1.00   0.03  0.00  0.00  0.02  0.95  0.00  0.00  0.00  0.00
+  pip292                  1.00   0.03  0.01  0.00  0.01  0.95  0.00  0.00  0.97  0.00
+  pip293                  1.00   0.03  0.00  0.00  0.01  0.96  0.00  0.00  0.97  0.00
+  pip294                  1.00   0.03  0.00  0.00  0.81  0.16  0.00  0.00  0.97  0.00
+  pip295                  1.00   0.03  0.00  0.00  0.15  0.82  0.00  0.00  0.97  0.00
+  pip296                  1.00   0.03  0.00  0.00  0.97  0.00  0.00  0.00  0.77  0.00
+  pip297                  1.00   0.03  0.02  0.00  0.95  0.00  0.00  0.00  0.18  0.00
+  pip298                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.48  0.00
+  pip299                  1.00   0.03  0.00  0.00  0.06  0.91  0.00  0.00  0.01  0.00
+  pip300                  1.00   0.03  0.00  0.00  0.00  0.97  0.00  0.00  0.50  0.00
+  OUT_LINK_OUT014         1.00   0.04  0.00  0.00  0.96  0.00  0.00  0.00  0.00  0.00
+  OUT_LINK_OUT001         1.00   0.05  0.01  0.00  0.94  0.01  0.00  0.00  0.00  0.00
+  
+  
+  *************************
+  Conduit Surcharge Summary
+  *************************
+  
+  ----------------------------------------------------------------------------
+                                                           Hours        Hours 
+                         --------- Hours Full --------   Above Full   Capacity
+  Conduit                Both Ends  Upstream  Dnstream   Normal Flow   Limited
+  ----------------------------------------------------------------------------
+  pip178                      2.33      2.33      2.36      1.85         1.86
+  pip216                      0.01      0.01      0.28      0.01         0.01
+  pip220                      0.01      0.01      2.09      0.01         0.01
+  pip224                      0.01      0.01      0.32      0.01         0.01
+  pip239                      0.01      0.01      1.59      0.01         0.01
+  pip240                      0.01      0.01      2.12      0.01         0.01
+  pip252                      0.01      0.01      0.29      0.01         0.01
+  pip253                      0.01      0.29      0.01      0.36         0.01
+  pip265                      0.01      0.01      0.03      0.01         0.01
+  pip266                      0.78      0.78      2.22      0.01         0.01
+  pip269                      0.01      0.01      0.01      0.05         0.01
+  pip274                      1.50      1.50      1.74      0.76         0.03
+  pip296                      0.01      0.01      0.28      0.01         0.01
+  OUT_LINK_OUT014             0.01      0.01      0.01      0.67         0.01
+  OUT_LINK_OUT001             0.60      0.75      0.60      1.57         0.60
+  
+  
+  ***************************
+  Link Pollutant Load Summary
+  ***************************
+  
+  ------------------------------------------------
+                              TRACER          NH4N
+  Link                            kg            kg
+  ------------------------------------------------
+  pip173                     414.375        47.357
+  pip174                     896.936       102.507
+  pip175                     576.749        65.914
+  pip176                    1105.566       126.350
+  pip177                    1276.741       145.913
+  pip178                     772.920        88.334
+  pip179                     420.027        48.003
+  pip180                     573.293        65.519
+  pip181                     736.382        84.158
+  pip182                     943.574       107.837
+  pip183                     473.178        54.078
+  pip184                     471.476        53.883
+  pip185                      98.616        11.270
+  pip186                     484.867        55.413
+  pip187                     577.334        65.981
+  pip188                     717.341        81.982
+  pip189                     222.354        25.412
+  pip190                     425.413        48.619
+  pip191                     668.530        76.403
+  pip192                     407.043        46.519
+  pip193                     674.781        77.118
+  pip194                     968.535       110.690
+  pip195                    1248.929       142.735
+  pip196                     123.431        14.106
+  pip197                     230.840        26.382
+  pip198                    1795.315       205.179
+  pip199                     438.753        50.143
+  pip200                    1184.988       135.427
+  pip201                    1639.455       187.366
+  pip202                     343.032        39.204
+  pip203                     578.657        66.132
+  pip204                     817.140        93.387
+  pip205                    1123.773       128.431
+  pip206                    2024.425       231.363
+  pip207                    3637.071       415.665
+  pip208                     277.513        31.716
+  pip209                     318.325        36.380
+  pip210                     579.877        66.272
+  pip211                    4846.283       553.861
+  pip212                     352.297        40.263
+  pip213                     650.244        74.314
+  pip214                    1411.451       161.309
+  pip215                    1495.003       170.857
+  pip216                    1093.622       124.985
+  pip217                     880.216       100.596
+  pip218                     569.320        65.065
+  pip219                    1226.253       140.143
+  pip220                     923.193       105.508
+  pip221                    2005.543       229.205
+  pip222                     402.442        45.993
+  pip223                     788.109        90.070
+  pip224                     259.694        29.679
+  pip225                     817.378        93.415
+  pip226                     344.062        39.321
+  pip227                     709.738        81.113
+  pip228                     389.575        44.523
+  pip229                     294.143        33.616
+  pip230                     764.817        87.408
+  pip231                    1351.992       154.513
+  pip232                     354.958        40.567
+  pip233                     518.100        59.211
+  pip234                     756.991        86.513
+  pip235                     355.380        40.615
+  pip236                     655.218        74.882
+  pip237                    1356.557       155.035
+  pip238                     386.205        44.138
+  pip239                     614.109        70.184
+  pip240                     199.903        22.846
+  pip241                     651.918        74.505
+  pip242                     221.082        25.266
+  pip243                     310.812        35.521
+  pip244                     388.727        44.426
+  pip245                     460.711        52.653
+  pip246                     767.137        87.673
+  pip247                    1796.949       205.366
+  pip248                     388.199        44.366
+  pip249                     159.481        18.226
+  pip250                     284.788        32.547
+  pip251                     445.670        50.934
+  pip252                     584.602        66.812
+  pip253                     794.743        90.828
+  pip254                     346.896        39.645
+  pip255                     764.220        87.339
+  pip256                     302.225        34.540
+  pip257                     384.497        43.943
+  pip258                     913.504       104.400
+  pip259                     282.360        32.270
+  pip260                    1289.927       147.420
+  pip261                     164.527        18.803
+  pip262                    1615.970       184.682
+  pip264                     224.209        25.624
+  pip265                     479.861        54.841
+  pip266                     311.777        35.632
+  pip267                     314.599        35.954
+  pip268                     472.283        53.975
+  pip269                     643.761        73.573
+  pip270                     849.702        97.109
+  pip271                       0.000         0.000
+  pip272                    1021.953       116.795
+  pip273                     531.498        60.743
+  pip274                     448.983        51.312
+  pip275                     774.935        88.564
+  pip276                    1475.503       168.629
+  pip277                     481.810        55.064
+  pip278                     720.736        82.370
+  pip279                    2650.334       302.895
+  pip280                     620.067        70.865
+  pip281                     643.921        73.591
+  pip282                     319.501        36.514
+  pip283                     665.447        76.051
+  pip284                    1152.989       131.770
+  pip285                    2720.894       310.959
+  pip286                     288.734        32.998
+  pip287                     535.132        61.158
+  pip288                     356.431        40.735
+  pip289                       0.000         0.000
+  pip290                     732.643        83.731
+  pip291                     286.141        32.702
+  pip292                     465.766        53.230
+  pip293                    1419.248       162.200
+  pip294                    1580.735       180.655
+  pip295                     570.665        65.219
+  pip296                     801.852        91.640
+  pip297                    3467.302       396.263
+  pip298                     586.018        66.973
+  pip299                     534.330        61.066
+  pip300                     943.580       107.838
+  OUT_LINK_OUT014            759.352        86.783
+  OUT_LINK_OUT001           3616.519       413.316
+  
+
+  Analysis begun on:  Tue Jun  9 20:23:30 2026
+  Analysis ended on:  Tue Jun  9 20:23:30 2026
+  Total elapsed time: < 1 sec
